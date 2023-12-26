@@ -8,6 +8,7 @@
 
 ## replaces lcd pickup module
 ![AliExpress_20A_80V_dcdc](docs/AliExpress_20A_80V_dcdc.jpg)
+https://www.aliexpress.com/item/1005004966830126.html
 
 ## KiCad circuit
 ![circuit](readme_img/circuit.jpg)
