@@ -1,0 +1,5 @@
+
+bool SetupWifi() 
+{
+  return false;
+}
