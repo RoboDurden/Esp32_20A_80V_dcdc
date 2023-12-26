@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Esp20A80V")(type "KiCad")(uri "${KIPRJMOD}/Esp20A80V.kicad_sym")(options "")(descr ""))
+)
