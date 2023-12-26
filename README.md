@@ -21,3 +21,6 @@ https://www.aliexpress.com/item/1005004966830126.html
 
 ## blender box / housing
 ![3dprint](readme_img/3dprint.jpg)
+
+## Arduino code (ssd1306)
+![arduino_mppt](readme_img/arduino_mppt.jpg)
